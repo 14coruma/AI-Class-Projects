@@ -1,0 +1,8 @@
+a a-b-zzz c
+b a-m-zzz c
+c c _
+d d-zzz e,f
+e e b,f
+f f-zzz-zzz _
+g g-zzz-zzz h,i,f
+h h f,c
